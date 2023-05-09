@@ -1,0 +1,4 @@
+/venv
+/autenticacao/__pycache__/
+/autenticacao/migrations/__pycache__/
+/nutri_lab/__pycache__/
